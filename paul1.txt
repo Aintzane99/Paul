@@ -1,5 +1,2 @@
 hello,
 I'm, Paul
-conflict¡
-conflict¡
-this is a different line to create conflict
