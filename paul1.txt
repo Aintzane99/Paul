@@ -2,4 +2,4 @@ hello,
 I'm, Paul
 conflict¡
 conflict¡
-hello,
+this is a different line to create conflict
