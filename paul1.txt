@@ -1,4 +1,3 @@
 hello,
 I'm, Paul
-paul line
-paul line
+the conflict on this line was removed
